@@ -46,8 +46,8 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
  - Rigor técnico, teórico e qualidade de pesquisa do material entregue;
  
 ### Atividades
-- **Prática de R (peso 4,0):** individual
-<br>Desenvolvimento das atividades propostas
+- **Prática (peso 4,0):** Exercícios
+<br>Desenvolvimento de atividades de prática dos conceitos apresentados em aula.
 - **Trabalho Final (peso 6,0):** Artigo científico
 <br>Desenvolvimento de um experimento, coleta e análise de dados que resultarão na redação de um artigo científico com a descrição da metodologia, resultados, interpretações e limitações do estudo; submissão do artigo em um periódico. Este trabalho pode ou não estar vinculado a dissertação do aluno.
 
