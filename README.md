@@ -18,7 +18,7 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
 
 ### Conteúdos Abordados
 - UNIDADE 1 - Noções Básicas
-  - 1.1. [Leitura e compreensão de dados estatísticos](https://github.com/nanipumpkin/Analise_Estatistica/blob/main/Aula_01_Tipos_de_dados.ipynb)
+  - 1.1. Leitura e compreensão de dados estatísticos
   - 1.2. População e amostra
   - 1.3. Testes de significância
 
