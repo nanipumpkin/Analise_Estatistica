@@ -1,5 +1,6 @@
 # Introdução à Análise Estatística para Arquitetura
-<br>Curso: 1133 - Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo, UFSM
+<br>Universidade Federal de Santa Maria
+<br>Curso: 1133 - Programa de Pós-Graduação em Arquitetura, Urbanismo e Paisagismo
 <br>Linha de pesquisa: Projeto/Tecnologia
 <br>Código da disciplina: DAU863
 <br>Pré-requisito: DAU838 Metodologia de Pesquisa
