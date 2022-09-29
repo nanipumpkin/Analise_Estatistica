@@ -17,7 +17,7 @@ Capacitar o aluno a ler, interpretar e executar análises estatíticas relevante
 Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura são de natureza qualitativa em virtude do alinhamento da mesma com as ciências sociais. No entanto, desenvolvimentos no campo da psicologia ambiental, acesso a imensas bases de dados e a crescente capacidade de simulação virtual de ambientes com grande realismo tem possibilitado o desenvolvimento de pesquisas quantitativas no campo de arquitetura e urbanismo. Para que estas pesquisas possam ser desenvolvidas, no entanto, é necessário um conhecimento mínimo de estatística, hoje ausente na formação do profissional.
 
 ### Conteúdos Abordados
-- UNIDADE 1 - Noções Básicas
+- [UNIDADE 1 - Noções Básicas](https://github.com/nanipumpkin/Analise_Estatistica/blob/main/notebooks/estatisticas_descritivas.ipynb)
   - 1.1. Leitura e compreensão de dados estatísticos
   - 1.2. População e amostra
   - 1.3. Testes de significância
