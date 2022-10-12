@@ -16,27 +16,33 @@ Capacitar o aluno a ler, interpretar e executar análises estatíticas relevante
 ### Justificativa
 Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura são de natureza qualitativa em virtude do alinhamento da mesma com as ciências sociais. No entanto, desenvolvimentos no campo da psicologia ambiental, acesso a imensas bases de dados e a crescente capacidade de simulação virtual de ambientes com grande realismo tem possibilitado o desenvolvimento de pesquisas quantitativas no campo de arquitetura e urbanismo. Para que estas pesquisas possam ser desenvolvidas, no entanto, é necessário um conhecimento mínimo de estatística, hoje ausente na formação do profissional.
 
-### Conteúdos Abordados
-- UNIDADE 1 - Noções Básicas
-  - 1.1. Leitura e compreensão de dados estatísticos
-  - 1.2. População e amostra
-  - 1.3. Testes de significância
-
-- UNIDADE 2 - Análises
-  - 2.1. Análise fatorial
-  - 2.2. Análise de variância
-  - 2.3. Análise de regressões múltiplas
-  - 2.4. Análise de regressão logística
-  - 2.5. Análise conjunta
-  - 2.6. Análises de agrupamentos
-
-- UNIDADE 3 - Softwares de Estatística.
-  - 3.1. Apresenação dos principais softwares de estatística
-  - 3.2. Introdução ao uso de softwares open source
-  
 ### Metodologia
   Aulas teórico-conceituais, aplicação prática dos conceitos e métodos apresentados, seminários, estudos de caso. O semestre será dividido em 2 momentos distintos, com um primeiro momento mais teórico de introdução dos conceitos e um segundo momento de orientação, estruturação e desenvolvimento de experimentos.
-  
+
+### Conteúdos Abordados
+ UNIDADE 1 - ESTATÍSTICAS DESCRITIVAS
+ - [Aula 01 - Introdução, Google Colab e Tipos de Dados]()
+ - [Aula 02 - Manipulação de Dados](notebooks/Aula_02.ipynb)
+ - [Aula 03 - Medidas de Centralidade e Dispersão]()
+ 
+ UNIDADE 2 - ANÁLISE EXPLORATÓRIA
+ - [Aula 04 - Correlações, Validade, Confiança e Amostragem](notebooks/Aula_04.ipynb)
+ - Aula 05 - Regressão Linear e Intervalos de Confiança
+ - Aula 06 - Regressão Múltipla
+ - Aula 07 - Modelo Linear Genérico e Codificação de Variáveis
+ 
+ UNIDADE 3 - TESTES DE HIPÓTESES
+ - Aula 08 - Teste-T, ANOVA e Testes Post-hoc
+ - Aula 09 - ANOVA Fatorial e Medidas Repetidas
+ - Aula 10 - Qui-Quadrado e Regressão Logística
+
+ UNIDADE 4 - ANÁLISE PREDITIVA
+ - Aula 11 - Análise Fatorial
+ - Aula 12 - Análise de Agrupamentos
+ - Aula 13 - Análise Conjunta
+ - Aula 14 - Revisitando as Premissas Básicas
+ - Aula 15 - Submissão de Artigo Científico e Avaliação Geral
+
 ### Avaliação
  Durante o semestre serão desenvolvidas atividades nas quais serão avaliados os seguintes aspectos:
  - Assiduidade e envolvimento do estudante nas atividades propostas;
