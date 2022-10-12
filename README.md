@@ -21,9 +21,9 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
 
 ### Conteúdos Abordados
  UNIDADE 1 - ESTATÍSTICAS DESCRITIVAS
- - [Aula 01 - Introdução, Google Colab e Tipos de Dados]()
+ - [Aula 01 - Introdução, Google Colab e Tipos de Dados](notebooks/Aula_01.ipynb)
  - [Aula 02 - Manipulação de Dados](notebooks/Aula_02.ipynb)
- - [Aula 03 - Medidas de Centralidade e Dispersão]()
+ - [Aula 03 - Medidas de Centralidade e Dispersão](notebooks/Aula_03.ipynb)
  
  UNIDADE 2 - ANÁLISE EXPLORATÓRIA
  - [Aula 04 - Correlações, Validade, Confiança e Amostragem](notebooks/Aula_04.ipynb)
