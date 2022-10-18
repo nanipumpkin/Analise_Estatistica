@@ -26,8 +26,8 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
  - [Aula 03 - Medidas de Centralidade e Dispersão](notebooks/Aula_03.ipynb)
  
  UNIDADE 2 - ANÁLISE EXPLORATÓRIA
- - [Aula 04 - Correlações, Validade, Confiança e Amostragem](notebooks/Aula_04.ipynb)
- - Aula 05 - Regressão Linear e Intervalos de Confiança
+ - [Aula 04 - Amostragem e Correlações](notebooks/Aula_04.ipynb)
+ - [Aula 05 - Regressão Linear e Intervalos de Confiança](notebooks/Aula_05.ipynb)
  - Aula 06 - Regressão Múltipla
  - Aula 07 - Modelo Linear Genérico e Codificação de Variáveis
  
