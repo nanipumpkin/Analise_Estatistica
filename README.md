@@ -32,7 +32,7 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
  - [Aula 07 - Modelo Linear Genérico e Codificação de Variáveis](notebooks/Aula_07.ipynb)
  
  UNIDADE 3 - TESTES DE HIPÓTESES
- - Aula 08 - Teste-T, ANOVA e Testes Post-hoc
+ - [Aula 08 - Teste-T, ANOVA e Testes Post-hoc](notebooks/Aula_08.ipynb)
  - Aula 09 - ANOVA Fatorial e Medidas Repetidas
  - Aula 10 - Qui-Quadrado e Regressão Logística
 
