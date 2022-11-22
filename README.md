@@ -34,7 +34,7 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
  UNIDADE 3 - TESTES DE HIPÓTESES
  - [Aula 08 - Teste-T, ANOVA e Testes Post-hoc](notebooks/Aula_08.ipynb)
  - [Aula 09 - ANOVA Fatorial e Medidas Repetidas](notebooks/Aula_09.ipynb)
- - Aula 10 - Qui-Quadrado e Regressão Logística
+ - [Aula 10 - Qui-Quadrado e Regressão Logística](notebooks/Aula_10.ipynb)
 
  UNIDADE 4 - ANÁLISE PREDITIVA
  - Aula 11 - Análise Fatorial
