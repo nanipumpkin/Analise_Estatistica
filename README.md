@@ -20,24 +20,24 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
   Aulas teórico-conceituais, aplicação prática dos conceitos e métodos apresentados, seminários, estudos de caso. O semestre será dividido em 2 momentos distintos, com um primeiro momento mais teórico de introdução dos conceitos e um segundo momento de orientação, estruturação e desenvolvimento de experimentos.
 
 ### Conteúdos Abordados
- UNIDADE 1 - ESTATÍSTICAS DESCRITIVAS
+ UNIDADE 1
  - [Aula 01 - Introdução, Google Colab e Tipos de Dados](notebooks/Aula_01.ipynb)
  - [Aula 02 - Manipulação de Dados](notebooks/Aula_02.ipynb)
  - [Aula 03 - Medidas de Centralidade e Dispersão](notebooks/Aula_03.ipynb)
  
- UNIDADE 2 - ANÁLISE EXPLORATÓRIA
+ UNIDADE 2
  - [Aula 04 - Amostragem e Correlações](notebooks/Aula_04.ipynb)
  - [Aula 05 - Regressão Linear e Intervalos de Confiança](notebooks/Aula_05.ipynb)
  - [Aula 06 - Regressão Múltipla](notebooks/Aula_06.ipynb)
  - [Aula 07 - Modelo Linear Genérico e Codificação de Variáveis](notebooks/Aula_07.ipynb)
  
- UNIDADE 3 - TESTES DE HIPÓTESES
+ UNIDADE 3
  - [Aula 08 - Teste-T, ANOVA e Testes Post-hoc](notebooks/Aula_08.ipynb)
  - [Aula 09 - ANOVA Fatorial e Medidas Repetidas](notebooks/Aula_09.ipynb)
  - [Aula 10 - Qui-Quadrado e Regressão Logística](notebooks/Aula_10.ipynb)
 
- UNIDADE 4 - ANÁLISE PREDITIVA
- - Aula 11 - Análise Fatorial
+ UNIDADE 4
+ - [Aula 11 - Análise Fatorial](notebooks/Aula11.ipynb)
  - Aula 12 - Análise de Agrupamentos
  - Aula 13 - Análise Conjunta
  - Aula 14 - Revisitando as Premissas Básicas
