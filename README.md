@@ -37,11 +37,10 @@ Historicamente, a maioria das pesquisas relacionadas ao campo da arquitetura sã
  - [Aula 10 - Qui-Quadrado e Regressão Logística](notebooks/Aula_10.ipynb)
 
  UNIDADE 4
- - [Aula 11 - Análise Fatorial](notebooks/Aula11.ipynb)
- - Aula 12 - Análise de Agrupamentos
- - Aula 13 - Análise Conjunta
- - Aula 14 - Revisitando as Premissas Básicas
- - Aula 15 - Submissão de Artigo Científico e Avaliação Geral
+ - [Aula 11 - Análise Fatorial](notebooks/Aula_11.ipynb)
+ - [Aula 12 - Análise de Agrupamentos](notebooks/Aula_12.ipynb)
+ - Aula 13 - Transformação de Dados
+ - Aula 14 - Submissão de Artigo Científico e Avaliação Geral
 
 ### Avaliação
  Durante o semestre serão desenvolvidas atividades nas quais serão avaliados os seguintes aspectos:
